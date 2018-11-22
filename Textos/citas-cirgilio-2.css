@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'PatrickHand-Regular';
+    src: url('Imagenes/PatrickHand-Regular.ttf');
+}
+@font-face {
+    font-family: 'ChakraPetch-Italic';
+    src: url('Imagenes/ChakraPetch-Italic.ttf');
+}
+@font-face {
+    font-family: 'Lobster-Regular';
+    src: url('Imagenes/Lobster-Regular.ttf');
+}
+
+body{
+    background-color: rgb(91, 135, 202);
+}
+h1 {
+    font-family: 'PatrickHand-Regular';
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.5rem;
+    font-size: 3rem;
+}
+p{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Open Sans', 
+    sans-serif;
+    text-align: justify;
+    line-height: 200%;
+}
+.latin{
+    margin: 0;
+    font-family: 'Lobster-Regular';
+    font-size: 2.5rem;
+}
+.español{
+    margin: 0 0 3rem;
+    color: white;
+    font-family: 'ChakraPetch-Italic'; 
+    font-size: 3.5rem;
+    letter-spacing: 10x;
+    text-align: right;
+}
