@@ -7,7 +7,7 @@
     src: url('Imagenes/ChakraPetch-Italic.ttf');
 }
 @font-face {
-    font-family: 'Lobster-Regular';
+    font-family: 'Lobster-Regul';
     src: url('Imagenes/Lobster-Regular.ttf');
 }
 
@@ -31,7 +31,7 @@ p{
 }
 .latin{
     margin: 0;
-    font-family: 'Lobster-Regular';
+    font-family: 'Lobster-Regul';
     font-size: 2.5rem;
 }
 .español{
